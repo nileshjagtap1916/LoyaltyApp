@@ -1,8 +1,7 @@
 package main
 
 import (
-	//"github.com/golang/protobuf/ptypes/timestamp"
-	"github.com/hyperledger/fabric/vendor/github.com/golang/protobuf/ptypes/timestamp"
+	"github.com/golang/protobuf/ptypes/timestamp"
 )
 
 type Transaction struct{
